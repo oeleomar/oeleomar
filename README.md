@@ -1,8 +1,7 @@
-Olá, me chamo Eleomar, sou Analista de Redes.
+## Olá! Eu sou o Eleomar, seja bem vindo(a)!
 
-Trabalho atualmente em um provedor, o que me deu a oportunidade de conhecer o mundo da tecnologia e se apaixonar cada vez mais.
-
-Então conheci a programação e foi onde começei meus estudos de lógica, logo em seguida começei com o JavaScript, e em um futuro bem próximo quem sabe aprender a programar alguns joguinhos.
-
-
-Bem vindo(a)!
+<div align="center">
+  <a href="https://github.com/oeleomar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oeleomar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oeleomar&layout=compact&langs_count=7&theme=dracula"/>
+</div>
