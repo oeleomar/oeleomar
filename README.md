@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eleomar, seja bem vindo(a)!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#70a5fd&size=35&center=true&vCenter=true&width=1000&lines=<+Bem+vindo,+meu+nome+é+Eleomar+Dorneles+/>;<+Sou+Desenvolvedor+WEB+/>;TENHO+22+ANOS;É+um+prazer,+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" display="block">
   <a href="https://github.com/oeleomar">
